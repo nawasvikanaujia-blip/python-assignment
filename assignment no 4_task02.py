@@ -12,3 +12,4 @@ with open("output.txt", "a") as fh:
 with open("output.txt", "r") as fh:
     print("\nFinal content of the file:")
     print(fh.read())
+
